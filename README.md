@@ -1,2 +1,3 @@
 # CSE-370
-Database System
+Database System lab materials
+Using MySQL
